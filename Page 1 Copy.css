@@ -1,0 +1,494 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(44, 46, 47);
+}
+
+#image1 {
+    float: none;
+    width: 96.689941%;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#box2 {
+    float: none;
+    height: 208px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 94.876303%;
+    margin-right: auto;
+}
+
+#image2 {
+    float: none;
+    width: auto;
+    max-width: 95.497905%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#box3 {
+    float: none;
+    height: 94.125px;
+    margin-left: auto;
+    margin-top: 12.625px;
+    clear: none;
+    width: 91.735842%;
+    margin-right: auto;
+}
+
+#box1 {
+    float: none;
+    height: 314.625px;
+    margin-left: auto;
+    margin-top: 115px;
+    clear: none;
+    width: 39.80306%;
+    margin-right: auto;
+}
+
+#image {
+    float: left;
+    width: 93.174634%;
+    max-width: none;
+    height: auto;
+    margin-left: 6.972825%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+}
+
+#box {
+    float: left;
+    height: 70px;
+    margin-left: 92.273763%;
+    margin-top: 0px;
+    clear: none;
+    width: 7.726237%;
+    margin-right: 0%;
+    margin-bottom: 0px;
+}
+
+#image4 {
+    float: none;
+    width: 97.927874%;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#box4 {
+    float: left;
+    height: 94px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    position: absolute;
+    top: auto;
+    left: 0px;
+    bottom: 0px;
+}
+
+#box6 {
+    float: left;
+    height: 93px;
+    margin-left: 1.015625%;
+    margin-top: -1px;
+    clear: none;
+    width: 24.506836%;
+    margin-right: 0%;
+}
+
+#image5 {
+    float: none;
+    width: 97.531449%;
+    max-width: 97.744731%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#image3 {
+    float: none;
+    width: 97.925422%;
+    max-width: 97.929085%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#image6 {
+    float: none;
+    width: 97.530017%;
+    max-width: 97.744731%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#box7 {
+    float: left;
+    height: 94px;
+    margin-left: 0.41503906%;
+    margin-top: -1px;
+    clear: none;
+    width: 24.065755%;
+    margin-right: 0%;
+}
+
+#box8 {
+    float: left;
+    height: 93px;
+    margin-left: 1.194661%;
+    margin-top: 0px;
+    clear: none;
+    width: 23.722331%;
+    min-height: 50px;
+    margin-right: 0%;
+}
+
+#box5 {
+    float: left;
+    height: 93px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 24.399414%;
+    margin-right: 0%;
+}
+
+@media only screen and (max-width: 960px) {
+    #image1 {
+        float: none;
+        width: 96.689941%;
+        max-width: 100%;
+        height: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+    }
+
+    #box2 {
+        float: none;
+        height: 66.110449%;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        width: 94.876303%;
+        margin-right: auto;
+    }
+
+    #image2 {
+        float: none;
+        width: auto;
+        max-width: 95.497905%;
+        height: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+    }
+
+    #box3 {
+        float: none;
+        height: 29.916567%;
+        margin-left: auto;
+        margin-top: 3.304028%;
+        clear: none;
+        width: 91.735842%;
+        margin-right: auto;
+    }
+
+    #box1 {
+        float: none;
+        height: 28.141771%;
+        margin-left: auto;
+        margin-top: 115px;
+        clear: none;
+        width: 39.80306%;
+        margin-right: auto;
+    }
+
+    #image {
+        float: left;
+        width: 93.174634%;
+        max-width: none;
+        height: auto;
+        margin-left: 6.972825%;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0px;
+    }
+
+    #box {
+        float: left;
+        height: 6.261181%;
+        margin-top: 0px;
+        margin-right: 0%;
+        margin-bottom: 0px;
+        margin-left: 92.273763%;
+        clear: none;
+        width: 7.726237%;
+    }
+
+    #image4 {
+        float: none;
+        width: 97.927874%;
+        max-width: 100%;
+        height: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+    }
+
+    #box4 {
+        float: left;
+        height: 94px;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        position: absolute;
+        top: auto;
+        left: 0px;
+        bottom: 0px;
+    }
+
+    #box6 {
+        float: left;
+        height: 93px;
+        margin-left: 1.015625%;
+        margin-top: -1px;
+        clear: none;
+        width: 24.506836%;
+        margin-right: 0%;
+    }
+
+    #image5 {
+        float: none;
+        width: 97.531449%;
+        max-width: 97.744731%;
+        height: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+    }
+
+    #image3 {
+        float: none;
+        width: 97.925422%;
+        max-width: 97.929085%;
+        height: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+    }
+
+    #image6 {
+        float: none;
+        width: 97.530017%;
+        max-width: 97.744731%;
+        height: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+    }
+
+    #box7 {
+        float: left;
+        height: 94px;
+        margin-left: 0.41503906%;
+        margin-top: -1px;
+        clear: none;
+        width: 24.065755%;
+        margin-right: 0%;
+    }
+
+    #box8 {
+        float: left;
+        height: 93px;
+        margin-left: 1.194661%;
+        margin-top: 0px;
+        clear: none;
+        width: 23.722331%;
+        min-height: 50px;
+        margin-right: 0%;
+    }
+
+    #box5 {
+        float: left;
+        height: 93px;
+        margin-left: 0%;
+        margin-top: 0px;
+        clear: none;
+        width: 24.399414%;
+        margin-right: 0%;
+    }
+
+    .primaryContainer {
+        position: relative;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    #box3 {
+        margin-top: 7.5px;
+        clear: none;
+        width: 91.734366%;
+        height: 70.578125px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #box2 {
+        height: 156px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 94.874871%;
+    }
+
+    #box1 {
+        height: 234.078125px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 39.802517%;
+    }
+
+    #box {
+        width: 7.725694%;
+        height: 6.261181%;
+    }
+
+    #box4 {
+        width: 100%;
+        height: 70px;
+        bottom: 0px;
+        left: 0px;
+        top: auto;
+    }
+
+    #box6 {
+        height: 101.428571%;
+        width: 24.505208%;
+    }
+
+    #box5 {
+        width: 24.398872%;
+        height: 100%;
+    }
+
+    #box7 {
+        width: 24.06467%;
+        height: 101.428571%;
+    }
+
+    #box8 {
+        width: 23.721788%;
+        height: 100%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #box2 {
+        height: 86.98437458484376px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 94.873561%;
+    }
+
+    #box3 {
+        margin-top: 5.037883%;
+        clear: none;
+        width: 91.724884%;
+        height: 39.1093751921875px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #box1 {
+        height: 134.09375px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 39.798716%;
+    }
+
+    #box {
+        width: 7.722431%;
+        height: 2.593918%;
+    }
+
+    #box4 {
+        width: 100%;
+        height: 61px;
+        bottom: 58px;
+        left: 0px;
+    }
+
+    #box5 {
+        height: 39px;
+        width: 24.39693%;
+    }
+
+    #box6 {
+        width: 24.502663%;
+        height: 40px;
+        margin-top: 0px;
+        margin-right: 0%;
+        margin-bottom: 0px;
+        margin-left: 1.02%;
+    }
+
+    #box7 {
+        width: 24.064066%;
+        height: 47.90625px;
+    }
+
+    #box8 {
+        width: 23.719455%;
+        height: 46.671875px;
+        min-height: 0px;
+    }
+}
+

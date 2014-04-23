@@ -1,0 +1,325 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(44, 46, 47);
+}
+
+#image {
+    float: left;
+    width: 7.198893%;
+    max-width: none;
+    height: auto;
+    margin-left: 92.666016%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+}
+
+#box {
+    float: left;
+    height: 0%;
+    margin: 0px 0% 0px 92.273763%;
+    clear: none;
+    width: 7.726237%;
+}
+
+#box5 {
+    float: left;
+    height: 80px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    position: absolute;
+    top: auto;
+    left: 0px;
+    bottom: 0px;
+}
+
+#box7 {
+    float: left;
+    height: 95%;
+    margin: 4px 0px 0px;
+    clear: none;
+    width: 34%;
+    left: auto;
+}
+
+#box6 {
+    float: left;
+    height: 95%;
+    margin: 4px 0px 0px;
+    clear: none;
+    width: 33%;
+}
+
+#box8 {
+    float: left;
+    height: 95%;
+    margin: 4px 0px 0px;
+    clear: none;
+    width: 33%;
+    min-height: 50px;
+}
+
+#image1 {
+    float: none;
+    width: 51px;
+    max-width: none;
+    height: 67px;
+    margin: 4px auto 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: static;
+}
+
+#image2 {
+    float: none;
+    width: 72px;
+    max-width: none;
+    height: 67px;
+    margin: 4px auto 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#image3 {
+    float: none;
+    width: 58px;
+    max-width: none;
+    height: 68px;
+    margin: 4px auto 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#box3 {
+    float: left;
+    height: 810px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: both;
+    width: 92.27%;
+    position: static;
+    bottom: auto;
+}
+
+#box2 {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+}
+
+#box1 {
+    float: left;
+    height: 50px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+}
+
+#mapa {
+    float: left;
+    height: 60%;
+    margin: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+#box4 {
+    float: left;
+    height: 39%;
+    margin: 0px;
+    clear: none;
+    width: 100%;
+}
+
+@media only screen and (max-width: 960px) {
+    #image {
+        float: right;
+        width: 47.375px;
+        max-width: none;
+        height: auto;
+        margin: 0px 0.014285714285620088px 0px 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+    }
+
+    #box {
+        float: left;
+        height: 0%;
+        margin: 0px 0% 0px 92.273763%;
+        clear: none;
+        width: 7.726237%;
+    }
+
+    #box5 {
+        float: left;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        position: absolute;
+        top: auto;
+        left: 0px;
+        height: 80px;
+        background-color: rgb(44, 46, 47);
+    }
+
+    #box7 {
+        float: left;
+        clear: none;
+        position: static;
+        top: 0px;
+        left: 0px;
+    }
+
+    #box6 {
+        float: left;
+        clear: none;
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+
+    .primaryContainer {
+        position: relative;
+        background-color: rgb(59, 72, 66);
+    }
+
+    #box8 {
+        float: left;
+        clear: none;
+        min-height: 50px;
+        position: static;
+        top: 0px;
+        left: 0px;
+    }
+
+    #image1 {
+        float: none;
+        margin-left: auto;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+        margin-bottom: 0px;
+        width: 51px;
+    }
+
+    #image2 {
+        float: none;
+        margin-left: auto;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-bottom: 0px;
+        margin-right: auto;
+    }
+
+    #image3 {
+        float: none;
+        margin-left: auto;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+        margin-bottom: 0px;
+    }
+
+    #box3 {
+        float: left;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+    }
+
+    #box2 {
+        float: left;
+        height: auto;
+        margin-left: 0%;
+        margin-top: 0px;
+        clear: both;
+        width: 100%;
+    }
+
+    #box1 {
+        float: left;
+        margin-left: 0%;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        background-color: rgb(44, 46, 47);
+        height: 50px;
+    }
+
+    #mapa {
+        float: left;
+        clear: none;
+        background-color: rgb(255, 255, 255);
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    #box4 {
+        float: left;
+        height: 39%;
+        clear: none;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    #box {
+        width: 7.725694%;
+        height: 0%;
+    }
+
+    #box5 {
+        width: 100%;
+        left: 0px;
+        top: auto;
+        height: 80px;
+    }
+
+    #box7 {
+        bottom: 0px;
+        right: auto;
+    }
+
+    #box1 {
+        width: 100%;
+    }
+
+    #box2 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #box {
+        width: 7.722431%;
+        height: 2.593918%;
+    }
+
+    #box5 {
+        width: 100%;
+        left: 0px;
+        top: auto;
+    }
+
+    #box8 {
+        min-height: 0px;
+    }
+}
+

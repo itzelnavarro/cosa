@@ -1,0 +1,382 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 100%;
+    background-color: rgb(44, 46, 47);
+}
+
+#image1 {
+    float: none;
+    width: 96.689941%;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#box2 {
+    float: none;
+    height: 208px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 94.876303%;
+    margin-right: auto;
+}
+
+#image2 {
+    float: none;
+    width: auto;
+    max-width: 95.497905%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#box3 {
+    float: none;
+    height: 94.125px;
+    margin-left: auto;
+    margin-top: 12.625px;
+    clear: none;
+    width: 91.735842%;
+    margin-right: auto;
+}
+
+#box1 {
+    float: none;
+    height: 314.625px;
+    margin-left: auto;
+    margin-top: 115px;
+    clear: none;
+    width: 39.80306%;
+    margin-right: auto;
+}
+
+#image {
+    float: left;
+    width: 93.174634%;
+    max-width: none;
+    height: auto;
+    margin-left: 6.972825%;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0px;
+}
+
+#box {
+    float: left;
+    height: 70px;
+    margin: 0px 0% 0px 92.273763%;
+    clear: none;
+    width: 7.726237%;
+}
+
+#box4 {
+    float: left;
+    height: 80px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    position: absolute;
+    top: auto;
+    left: 0px;
+    bottom: 0px;
+}
+
+#box6 {
+    float: left;
+    height: 95%;
+    margin: 4px 0px 0px;
+    clear: none;
+    width: 34%;
+    left: auto;
+}
+
+#box5 {
+    float: left;
+    height: 95%;
+    margin: 4px 0px 0px;
+    clear: none;
+    width: 33%;
+}
+
+#box7 {
+    float: left;
+    height: 95%;
+    margin: 4px 0px 0px;
+    clear: none;
+    width: 33%;
+    min-height: 50px;
+}
+
+#image3 {
+    float: none;
+    width: 51px;
+    max-width: none;
+    height: 67px;
+    margin: 4px auto 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    position: static;
+}
+
+#image4 {
+    float: none;
+    width: 72px;
+    max-width: none;
+    height: 67px;
+    margin: 4px auto 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+#image5 {
+    float: none;
+    width: 58px;
+    max-width: none;
+    height: 68px;
+    margin: 4px auto 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+}
+
+@media only screen and (max-width: 960px) {
+    #image1 {
+        float: none;
+        width: 96.689941%;
+        max-width: 100%;
+        height: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+    }
+
+    #box2 {
+        float: none;
+        height: 66.110449%;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        width: 94.876303%;
+        margin-right: auto;
+    }
+
+    #image2 {
+        float: none;
+        width: auto;
+        max-width: 95.497905%;
+        height: auto;
+        margin-left: auto;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+    }
+
+    #box3 {
+        float: none;
+        height: 29.916567%;
+        margin-left: auto;
+        margin-top: 3.304028%;
+        clear: none;
+        width: 91.735842%;
+        margin-right: auto;
+    }
+
+    #box1 {
+        float: none;
+        height: 22.134318%;
+        margin-left: auto;
+        margin-top: 162px;
+        clear: none;
+        width: 39.80306%;
+        margin-right: auto;
+    }
+
+    #image {
+        float: left;
+        width: 93.174634%;
+        max-width: none;
+        height: auto;
+        margin-left: 6.972825%;
+        margin-top: 0px;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: 0px;
+    }
+
+    #box {
+        float: left;
+        height: 4.922644%;
+        margin: 0px 0% 0px 92.273763%;
+        clear: none;
+        width: 7.726237%;
+    }
+
+    #box4 {
+        float: left;
+        margin-left: 0px;
+        margin-top: 0px;
+        clear: none;
+        width: 100%;
+        position: absolute;
+        top: auto;
+        left: 0px;
+        bottom: 0px;
+    }
+
+    #box6 {
+        float: left;
+        clear: none;
+        position: static;
+        top: 0px;
+        left: 0px;
+    }
+
+    #box5 {
+        float: left;
+        clear: none;
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+
+    .primaryContainer {
+        position: relative;
+    }
+
+    #box7 {
+        float: left;
+        clear: none;
+        min-height: 50px;
+        position: static;
+        top: 0px;
+        left: 0px;
+    }
+
+    #image3 {
+        float: none;
+        margin-left: auto;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+        margin-bottom: 0px;
+        width: 51px;
+    }
+
+    #image4 {
+        float: none;
+        margin-left: auto;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-bottom: 0px;
+        margin-right: auto;
+    }
+
+    #image5 {
+        float: none;
+        margin-left: auto;
+        clear: none;
+        color: rgb(0, 0, 0);
+        margin-right: auto;
+        margin-bottom: 0px;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    #box3 {
+        margin-top: 7.5px;
+        clear: none;
+        width: 91.734366%;
+        height: 70.578125px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #box2 {
+        height: 156px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 94.874871%;
+    }
+
+    #box1 {
+        height: 234.078125px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 39.802517%;
+    }
+
+    #box {
+        width: 7.725694%;
+        height: 6.261181%;
+    }
+
+    #box4 {
+        width: 100%;
+        bottom: 0px;
+        left: 0px;
+        top: auto;
+    }
+
+    #box6 {
+        bottom: 0px;
+        right: auto;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    #box2 {
+        height: 86.98437458484376px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 94.873561%;
+    }
+
+    #box3 {
+        margin-top: 5.037883%;
+        clear: none;
+        width: 91.724884%;
+        height: 39.1093751921875px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #box1 {
+        height: 134.09375px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 39.798716%;
+    }
+
+    #box {
+        width: 7.722431%;
+        height: 2.593918%;
+    }
+
+    #box4 {
+        width: 100%;
+        bottom: 0px;
+        left: 0px;
+        top: auto;
+    }
+
+    #box7 {
+        min-height: 0px;
+    }
+}
+

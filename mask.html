@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <!-- This code is only meant for previewing your Reflow design. -->
+    <head>
+	<link rel="stylesheet" href="boilerplate.css" />
+	<link rel="stylesheet" href="mask.css" />
+	<meta charset="utf-8">
+	<meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0" />
+    <script type="text/javascript" src = "script/jquery-1.4.min.js"></script>
+    <script type="text/javascript" src = "script/jquery.easing-1.3.js"></script>
+    <script src = "script/jquery.iosslider.js"></script>
+        
+        <style type="text/css">
+        .iosSlider {
+                width: 100%;
+                height: 250px;
+            }
+            
+            .iosSlider .slider {
+                width: 100%;
+                height: 100%;
+            }
+            
+            .iosSlider .slider img {
+                position: relative;
+                top: 0;
+                left: 0;
+                margin: 0 0 0 0;
+            }
+        </style>
+
+        <script type="text/javascript">
+            $(document).ready(function() {
+            
+                $('.iosSlider').iosSlider({
+                    snapToChildren: true,
+                    desktopClickDrag: true,
+                    infiniteSlider: true
+                });
+                
+            });
+        </script>
+    </head>
+    <body>
+
+    <div id="primaryContainer" class="primaryContainer clearfix">
+        <div id="box" class="clearfix">
+            <img id="image" src="img/docu.png" class="image" />
+        </div>
+        <div id="box1" class="clearfix">
+
+            <div class = 'iosSlider'>
+            <div class = 'slider'>
+                    
+                        <img id="image1" src="img/masc1.png" class="image" />
+                        
+                        <img id="image1" src="img/masc1.png" class="image" />
+                        
+                        <img id="image1" src="img/masc1.png" class="image" />
+                        
+                        <img id="image1" src="img/masc1.png" class="image" />
+                    
+                </div>
+            </div>
+            
+        </div>
+        <div id="box2" class="clearfix">
+            <div id="box3" class="clearfix">
+                <a href="mask.html"><img id="image2" src="img/mask.png" class="image" /><a/>
+            </div>
+            <div id="box4" class="clearfix">
+               <a href="map.html"> <img id="image3" src="img/map.png" class="image" /><a/>
+            </div>
+            <div id="box5" class="clearfix">
+                <a href="gas.html"><img id="image4" src="img/gas.png" class="image" /><a/>
+            </div>
+        </div>
+    </div>
+    </body>
+</html>
