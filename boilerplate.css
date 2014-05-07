@@ -285,7 +285,7 @@ body {
     height: 100%;
 }
 
-body, div, img, p, button, input, select, textarea {
+body, div, img, p, button, input, select, textarea, a {
     box-sizing: border-box;
 }
 
